@@ -19,9 +19,11 @@ For physical verification of working, the same program was implemented on an Alt
 For each 4 bit input and select line combination the output was observed at 1 of three destinations (single bit high/low indicated by a LED)
 
 output fig1:
+
 <img width="553" alt="Screenshot 2025-04-25 at 1 43 14 PM" src="https://github.com/user-attachments/assets/a04f0e47-8ed5-4d0b-a9d8-b0ca7fca8873" />
 
 output fig2:
+
 <img width="405" alt="Screenshot 2025-04-25 at 1 43 39 PM" src="https://github.com/user-attachments/assets/3510d404-e453-4913-ad1b-80c59e7a3d14" />
 
 
